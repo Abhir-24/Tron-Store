@@ -1,0 +1,19 @@
+body{
+    display: flex;
+    justify-content: center;
+    background-color: #ede2fa;
+}
+.outer{
+    margin-top: 20%;
+}
+.btn{
+    padding: 15px;
+    border: 1px solid #03256C;
+    color: #CAF7E3;
+    background: #293B5F;
+    border-radius: 5px;
+    font-weight: bolder;
+    font-size: larger;
+    cursor: pointer;
+    text-decoration:none;
+}
